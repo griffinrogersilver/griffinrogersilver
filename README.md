@@ -1,3 +1,5 @@
+## This is a project to get reaquainted with React, eventually I'll incorporate AI, CSS, and other aspects to make it a fully fledged SEO application, but for now, it is only sad. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
